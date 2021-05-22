@@ -21,3 +21,5 @@ STEPS:
 
 This will open a websocket connection with blockchain.com and will show you all the transactions that exceed a certain amount of cryptocurrency amount. You can set the value you want by changing the `atLeast` variable in `main.js` (100 by default).
 Logs are saved in txt format while the big addresses are indexed in a .json file
+
+![Frontier](https://github.com/fedemagnani/blockchain_explorer_whales.js/blob/main/assets/whales.jpg?raw=true)
